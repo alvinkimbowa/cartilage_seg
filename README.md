@@ -33,4 +33,4 @@ However, the model can generalize to other devices, thanks to the contrast and i
 - The model achieves Dice of **95.56%** on test images from GE LOGIQ P9 R3 images, and an average of **94.27%** when evaluated with images from GE LOGIQe and Clarius L15 HD3.
 
 
-# ✌ Now every knee 🦿 you set your eyes upon... shall be imaged 😎
+### ✌ Now every knee 🦿 you set your eyes upon... shall be imaged 😎
